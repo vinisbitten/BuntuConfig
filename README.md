@@ -1,3 +1,3 @@
 # BuntuConfig
 
-WSL post install for my machine
+WSL post installation commands to personalize and set the alliases that I use
